@@ -1,0 +1,13 @@
+D:\c#\Alıstırmalar\Dictionarry\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
+D:\c#\Alıstırmalar\Dictionarry\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+D:\c#\Alıstırmalar\Dictionarry\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+D:\c#\Alıstırmalar\Dictionarry\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+D:\c#\Alıstırmalar\Dictionarry\bin\Debug\netcoreapp3.1\MyDictionary.exe
+D:\c#\Alıstırmalar\Dictionarry\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+D:\c#\Alıstırmalar\Dictionarry\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+D:\c#\Alıstırmalar\Dictionarry\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+D:\c#\Alıstırmalar\Dictionarry\bin\Debug\netcoreapp3.1\MyDictionary.dll
+D:\c#\Alıstırmalar\Dictionarry\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+D:\c#\Alıstırmalar\Dictionarry\obj\Debug\netcoreapp3.1\MyDictionary.dll
+D:\c#\Alıstırmalar\Dictionarry\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+D:\c#\Alıstırmalar\Dictionarry\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
